@@ -2,6 +2,7 @@
     [CurrencyCode] NCHAR (3)    NOT NULL,
     [Name]         [dbo].[Name] NOT NULL,
     [ModifiedDate] DATETIME     CONSTRAINT [DF_Currency_ModifiedDate] DEFAULT (getdate()) NOT NULL,
+    [issue_date] NCHAR(10) NULL, 
     CONSTRAINT [PK_Currency_CurrencyCode] PRIMARY KEY CLUSTERED ([CurrencyCode] ASC)
 );
 
