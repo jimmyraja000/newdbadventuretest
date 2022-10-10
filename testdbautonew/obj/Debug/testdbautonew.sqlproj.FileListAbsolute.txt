@@ -1,9 +1,0 @@
-C:\Users\jimmy\source\testdbautonew\bin\Debug\testdbautonew.dacpac
-C:\Users\jimmy\source\testdbautonew\bin\Debug\testdbautonew.dll
-C:\Users\jimmy\source\testdbautonew\bin\Debug\testdbautonew.pdb
-C:\Users\jimmy\source\testdbautonew\obj\Debug\Model.xml
-C:\Users\jimmy\source\testdbautonew\obj\Debug\refactor.xml
-C:\Users\jimmy\source\testdbautonew\obj\Debug\postdeploy.sql
-C:\Users\jimmy\source\testdbautonew\obj\Debug\predeploy.sql
-C:\Users\jimmy\source\testdbautonew\obj\Debug\testdbautonew.dll
-C:\Users\jimmy\source\testdbautonew\obj\Debug\testdbautonew.pdb
