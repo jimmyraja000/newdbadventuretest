@@ -5,6 +5,7 @@
     [ExpMonth]     TINYINT       NOT NULL,
     [ExpYear]      SMALLINT      NOT NULL,
     [ModifiedDate] DATETIME      CONSTRAINT [DF_CreditCard_ModifiedDate] DEFAULT (getdate()) NOT NULL,
+    [issue_date] DATE NOT NULL, 
     CONSTRAINT [PK_CreditCard_CreditCardID] PRIMARY KEY CLUSTERED ([CreditCardID] ASC)
 );
 
